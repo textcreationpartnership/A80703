@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A covenant for religion, king &amp; countrey. Made by the lords, knights, gentlemen, burgesses, ministers, and Commons of the Kingdome of Scotland. VVherein they declare how they are bound in conscience to defend the true Protestant religion, and the kings person, with the laws of the kingdome. Wherunto is annexed, His Maties [sic] entertainment at Hereford on Saterday last, being the first of October. With a worthy speech spoken to his Majesty by the recorder of Hereford. Wherein is manifested to His Majesty the lamentable condition that this kingdome will be in, if war should continue. Withall declaring the resolution of that city, to stand for the king and Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80703</idno>
+            <idno type="STC">Wing C6616</idno>
+            <idno type="STC">Thomason E121_19</idno>
+            <idno type="STC">ESTC R22528</idno>
+            <idno type="EEBO-CITATION">99871777</idno>
+            <idno type="PROQUEST">99871777</idno>
+            <idno type="VID">156131</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80703)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156131)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E121[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A covenant for religion, king &amp; countrey. Made by the lords, knights, gentlemen, burgesses, ministers, and Commons of the Kingdome of Scotland. VVherein they declare how they are bound in conscience to defend the true Protestant religion, and the kings person, with the laws of the kingdome. Wherunto is annexed, His Maties [sic] entertainment at Hereford on Saterday last, being the first of October. With a worthy speech spoken to his Majesty by the recorder of Hereford. Wherein is manifested to His Majesty the lamentable condition that this kingdome will be in, if war should continue. Withall declaring the resolution of that city, to stand for the king and Parliament.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Hutton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Oct. 7. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Covenants (Church polity) --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156131:1" rendition="simple:additions"/>
+            <p>A COVENANT FOR RELIGION, <hi>KING</hi> &amp; <hi>CO<g ref="char:V">Ʋ</g>NTREY.</hi>
+            </p>
+            <p>Made by the Lords, Knights, Gentle<g ref="char:EOLhyphen"/>men, Burgeſſes, Miniſters, and Commons of the Kingdome of <hi>SCOTLAND.</hi>
+            </p>
+            <p>VVherein they declare how they are bound in conſcience to defend the true Proteſtant Religion, and the Kings Perſon, with the Laws of the Kingdome.</p>
+            <p>
+               <hi>Whereunto is annexed,</hi> His Ma<hi rend="sup">ties</hi> entertainment at <hi>Hereford</hi> on <hi>Saterday</hi> laſt, being the firſt of <hi>October.</hi>
+            </p>
+            <p>With a worthy Speech ſpoken to his Majeſty by the Recorder of <hi>Hereford.</hi> Wherein is manifeſted to His Majeſty the lamentable condition that this Kingdome will be in, if War ſhould continue.</p>
+            <p>Withall declaring the reſolution of that City, to ſtand for the King and Parliament.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Hutton. Oct.</hi> 7. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156131:2"/>
+            <pb facs="tcp:156131:2"/>
+            <head>
+               <hi>A Covenant for</hi> RELIGION, KING, and COUNTREY, made by a new Ordinance of Counſail at the deſire of the generall aſſem<g ref="char:EOLhyphen"/>bly of <hi>SCOTLAND.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Eall, and every one of us underwritten, proteſt that after long and due examination of our own conſciences in matters of true, &amp; falſe religion, are now throughly reſolved of the truth by the word and Spirit of God; and therefore we beleeve with our hearts, confeſſe with our mouthes, ſubcribe with our hands, and conſtantly affirm before God, and the whole world: that this onely is the true Chriſtian Faith, and Re<g ref="char:EOLhyphen"/>ligion, pleaſing God, and bringing ſalvation to man, which now is by the mercy of God revealed to the world by the preaching of the bleſſed Evangel: And received, beleived, and defended by many and ſundry notable Kirks and Realms; but chiefely by the Kirk of <hi>Scotland,</hi> the Kings Majeſty, and our Eſtates of this Realme, as Gods eternall truth and onely ground of our ſalvation; as more particularly is expreſſed in the Confeſſion of our faithſta<g ref="char:EOLhyphen"/>bliſhed and confirmed by many Acts of Parliaments, and now of a long time hath been openly profeſſed by the Kings Majeſty, and whole body of his Realm, both in Burgh and Land. To the which Confeſſion and forme of religion we willingly agree in our conſciences in all points as unto Gods undoubted truth and verity, grounded only upon his written word: and therefore we abhorre and deteſt all contrary religion and doctrine: but chiefely all kinde of Papiſtry, in generall and particular heads, even as they are now damned &amp; confuted by the word of God,
+<pb facs="tcp:156131:3"/>and Kirk of <hi>Scotland:</hi> but in eſpeciall, we deteſt and refuſe the uſurped authority of that Romane Antichriſt upon the Scriptures of God upon the Kirk, the civill Ma<g ref="char:EOLhyphen"/>giſtrate, and conſciences of men, all his tyrannous lawes made upon indifferent things againſt our Chriſ<g ref="char:EOLhyphen"/>tian liberty; his erroneous doctrine againſt the ſufficien<g ref="char:EOLhyphen"/>cy of the written word, and the perfection of the Law, the office of Chriſt and his bleſſed Evangel. His corrup<g ref="char:EOLhyphen"/>ted doctrine concerning originall ſin, our naturall ina<g ref="char:EOLhyphen"/>bility and rebellion to Gods law, our juſtification by faith only, our imperfect ſanctification and obedience to the Law, the nature, number, and uſe of the holy Sacra<g ref="char:EOLhyphen"/>ments. His five baſtard Sacraments, with all his rites, ce<g ref="char:EOLhyphen"/>remonies, and falſe doctrine added to the miniſtration of the true Sacraments, without the word of God. His cruell judgement againſt infants departing without the Sacra<g ref="char:EOLhyphen"/>ment, his abſolute neceſſity of Baptiſme, his blaſphemous opinion of Tranſubſtantiation, or reall preſence of Chriſts body in the elements, and receiving of the ſame by the wicked or bodies of men; his diſpenſations with ſolemne Oathes, periuries, and degrees of marriage forbidden in the word, his cruelty againſt the innocent divorced, his deviliſh Maſſe, his blaſphemous prieſthood, his prophane Sacrifices for the ſinnes of the dead and the quick, his Ca<g ref="char:EOLhyphen"/>nonization of men calling upon Angels or Saints departed, worſhipping of imagerie relicks, and croſſes, dedicating of kirkes, Alters, dayes, vowes to creatures, his purgatory, prayers for the dead, praying or ſpeaking in a ſtrange lan<g ref="char:EOLhyphen"/>guage, with his proceſſions, and blaſphemons lettany, and multitude of advocates or mediatours, his manifold or<g ref="char:EOLhyphen"/>ders, auricular confeſſion, his deſperate and uncertain re<g ref="char:EOLhyphen"/>pentance, his generall, and doubtſome faith, his ſatisfaction of men for their ſins, his iuſtification by works, <hi>opus opera<g ref="char:EOLhyphen"/>tum,</hi>
+               <pb facs="tcp:156131:3"/>works of ſupererogation, merits, pardons, peregrina<g ref="char:EOLhyphen"/>tions and ſtations, his holy water, baptizing of bells, conju<g ref="char:EOLhyphen"/>ring of ſaints, croſſing, fanning, anointing, coniuring, hal<g ref="char:EOLhyphen"/>lowing of Gods good creatures with the ſuperſtitous opin<g ref="char:EOLhyphen"/>ion, joyned there with his wordly Monarchy, and wicked Hierarcy, his three ſolemne vowes, with all his ſhavelings of ſundry ſorts, his erronious and bloody decrees made at Trent, with all the ſubſcribers, &amp; approvers of that cruell and bloody and band conjured againſt the Kirk of God; and finally we deteſt all vain allegories, rites, ſignes, and traditions, brought in the Kirk, without or againſt the word of God, and doctrine of this true reformed Kirk; to the which we joyne our ſelves willingly in doctrine, faith, religion, diſcipline, and uſe of the Holy Sacraments, as live<g ref="char:EOLhyphen"/>ly members of the ſame in Chriſt our Head, prominſig and ſwering by the name of God our Lord, That we ſhall con<g ref="char:EOLhyphen"/>tinue in the obedience of the doctrine and diſcipline of this Kirk, and ſhall defende the ſame according to our vocati<g ref="char:EOLhyphen"/>on, all the dayes of our lives, under the paines contained in the law, and danger both of body and ſoule in the day of Gods fearefull Iudgements. And ſeeing that many are ſtir<g ref="char:EOLhyphen"/>red up by Sathan, and that Roman Antichriſt to promiſe, ſweare, ſubſcribe, and for a time uſe the holy Sacraments in the Kirk, deceitfull againſt their own conſciences, min<g ref="char:EOLhyphen"/>ding thereby firſt under the Externall cloak of religion, to corrupt and ſubvert ſecretly Gods true religion, within the Kirk; and afterward when time may ſerve to become open enemies and perſecutors of the ſame, under vain hope of the Popes diſpenſation, deviſed againſt the word of God to his greater confuſion, and their double condemnation in the day of the Lord Ieſus Chriſt.</p>
+            <p>We therefore willing to take away all ſuſpition of hi<g ref="char:EOLhyphen"/>pocriſie, and of ſuch double dealing with God &amp; his Kirk,
+<pb facs="tcp:156131:4"/>proteſt, and call the ſearcher of hearts for witneſſe, that our minds and hearts do fully agree with this our Confeſſion, Promiſe, Oath, and Subſcription; ſo that we are not mo<g ref="char:EOLhyphen"/>ved for any worldly reſpects, but are perſwaded onely in our conſciences through the knowledge &amp; love of Gods true Religion printed in our hearts by the holy Spirit, as we ſhall anſwer to him, in the day when the ſecrets of all hearts ſhall be diſcloſed: and becauſe we perceive that the quietneſſe and ſtability of our Religion and Kirk doth depend upon the ſafety and good behaviour of the Kings Majeſty, as upon a comfortable inſtrument of Gods mer<g ref="char:EOLhyphen"/>cy granted to this Countrey, for the maintaining of his Kirk, and miniſtration of juſtice amongſt us; wee proteſt and promiſe with our hearts under the ſame oath, hand, writ, and pains, that we ſhall defend his royall perſon and authority, with our goods, bodies and lives, in the de<g ref="char:EOLhyphen"/>fence of Chriſt his Evangel, Liberties of our countrey, mi<g ref="char:EOLhyphen"/>niſtration of juſtice, and puniſhment of iniquity, againſt all enemies within this Realm or without, as wee deſire our God to be be a ſtrong and mercifull defender to us in the day of our death, and comming of our Lord Jeſus Chriſt, to whom with the Father and the holy Spirit bee all honour and glory eternally.</p>
+         </div>
+         <div type="speech">
+            <pb facs="tcp:156131:4"/>
+            <head>A Worthy Speech ſpoken to the Kings moſt Excellent Majeſty by the <hi>Recorder</hi> of <hi>Hereford.</hi>
+            </head>
+            <p>MOſt gratious Soveraigne, according to our Allegiance wee are here aſſembled to entertaine your Majeſty, and to give that welcome which ſhall become us your diſtreſſed Subjects, yet loyall liege-people.</p>
+            <p>We with all joy acknowledge, that the Sunne never appeared more welcome to the halfe ſtarved traveller, benum'd with the cold moyſture of a hory morne, where the white dew like to con<g ref="char:EOLhyphen"/>gealed Pearle hangs on his haire, (by which he dos appeare almoſt a frozen Statue,) then now your gratious preſence is to us, almoſt deſpayring, frozen up with feare, with viſible appearances of dan<g ref="char:EOLhyphen"/>ger, death, and deſtruction, rapine, and thouſands more calami<g ref="char:EOLhyphen"/>ties, ſuch, as will bring terrour in the meere relation.</p>
+            <p>O my dread Soveraigne, let but your Servant put into your mind the dire effects of Warre, when flouriſhing Cities ſhall be turned to duſt, nay this yet flouriſhing Kingdom ſhall become it's owne deſtroyer, buried in the tombe of blood and ſlaughter, when our young infants ſhall be rudely torne from the ſad mothers, breaſt whoſe ſhrieks and cries ſerve as ſad muſique to the ſacrifice, when our young virgins and our wives ſhall be ſubject to bloudy cruelty, when death ſhall triumph, and the friends of <hi>Rome,</hi> (whoſe only aymes are to deſtroy the Lawes, religion of the Kingdome, nay the King too, if not prevented) your ſelfe moſt gratious Sov<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>raigne muſt ſuffer with your Subjects, if their hell-bred deſignes ſhould ever take effect, therefore great King, now while you may, re<g ref="char:EOLhyphen"/>turne, and joyne in peace with thoſe, who like to teeming mothers long for your wiſhed preſence, or like to loving children, who fin<g ref="char:EOLhyphen"/>ding the want of an indulgent parent, with an exceſſive ſorrow mournes his abſence, even ſo your Councell with an induſtrious care and loyall ſorrow mourne for your ſacred ſelfe, becauſe your ſplendant favour hath been kept ſo long from ſhining on them,
+<pb facs="tcp:156131:5"/>their actions like to flowers in a dry ſommer, want the dew of your high favour, which ſhould make them flouriſh with natu<g ref="char:EOLhyphen"/>rall ſweetneſſe, wherefore they are enforced to uſe ſOme art to bring them to a growth, and make them uſefull for the gene<g ref="char:EOLhyphen"/>rall good, bu would you deigne to caſt one ſplendant beame on their endeavours, and to lend a hand to raiſe their drooping hopes, then peace ſhould flouriſh: thoſe that ſeeke for war, ſhould fall into that pit themſelves have digged: O then Dread ſoveraigne abandon ſtraight thoſe Achans of the Land, let not atſcintion or domeſtique ſtrife revell within this Kingdame, but let peace, a bleffed reli<g ref="char:EOLhyphen"/>gious peace be ſtraight embraced, ſo ſhall your Crown and Throne endure for ever, and joy ſhall circumvent you, your Subjects feare ſhall ceaſe, and you ſhall ſee, let Law have power who is an e<g ref="char:EOLhyphen"/>nemy to Englands peace, and what they are that ſtrive to ruine England could their Plots but thrive. I feare I have diſpleaſed (if not your Majeſtie, yet ſome of your retinue) which if I have, I muſt conclude that they are guilty of what I mention, for other<g ref="char:EOLhyphen"/>wiſe what need they ſeeme offended at that which they are free of? As touching what Your Majeſty ſhall command, we are ready to obey, ſo far as Law, or Religion will give way; but if any com<g ref="char:EOLhyphen"/>mand ſhall happen contrary, our lives and fortunes ſhall be ex<g ref="char:EOLhyphen"/>poſed to the moſt eminent danger, in oppoſition of any ſuch com<g ref="char:EOLhyphen"/>mand. Thus truſting in Your Majeſties Royall diſpoſition, we reſt, (according to our bounden duty) Your Majeſties loyall and obedient Subjects, in which we are reſolved to live and die.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
